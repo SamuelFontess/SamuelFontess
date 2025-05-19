@@ -37,7 +37,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/SamuelFontess/SamuelFontess/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/SamuelFontess/output/snake.svg" alt="Snake animation" />
 
 ###
 
