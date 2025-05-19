@@ -1,4 +1,4 @@
-F# 👋 Olá, eu sou o Samuel Fontes!
+# 👋 Olá, eu sou o Samuel Fontes!
 
 - 🎓 Estudante de TI na UFRN
 - ☕ estudando JAVA
