@@ -1,9 +1,9 @@
-# 👋 Olá, eu sou o Samuel Fontes!
+F# 👋 Olá, eu sou o Samuel Fontes!
 
 - 🎓 Estudante de TI na UFRN
 - ☕ estudando JAVA
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelFontess&show_icons=true&theme=radical)
 
 ## 🚀 Projetos em destaque
 
