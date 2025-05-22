@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Samuel Fontes!
+# 👋 Olá, eu sou Samuel Fontes!
 
 - 🎓 Estudante de TI na UFRN  
 - ☕ Estudando JAVA
@@ -10,7 +10,7 @@
 
 ## 🚀 Projetos em destaque
 
-- **[projeto-codigo-de-barras](https://github.com/SamuelFontess/projeto-codigo-de-barras)**: Gerador de código de barras desenvolvido em C, ideal para aplicações que necessitam de identificação rápida e precisa.
+- **[projeto-codigo-de-barras](https://github.com/SamuelFontess/projeto-codigo-de-barras)**: Gerador e leitor de código de barras de modelo EAN-8 desenvolvido em C.
 
 - **[Sistema-de-cadastro](https://github.com/SamuelFontess/Sistema-de-cadastro)**: Sistema de cadastro simples em Java, com funcionalidades básicas para gerenciamento de usuários.
 
