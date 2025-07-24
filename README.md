@@ -14,6 +14,8 @@
 
 - **[Sistema-de-cadastro](https://github.com/SamuelFontess/Sistema-de-cadastro)**: Sistema de cadastro simples em Java, com funcionalidades básicas para gerenciamento de usuários.
 
+- **[Landing-page](https://github.com/SamuelFontess/landing-page-Delca)**: Landing page profissional usando next, tailwind css e typescript para uma empresa.
+
 ## 🛠️ Habilidades
 
 <div align="center" style="display: inline_block"><br>
@@ -22,6 +24,8 @@
   <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg">
   <img align="center" alt="mySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg">
+  <img align="center" alt="Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg">
 </div>
 
 ## 📫 Como me encontrar
