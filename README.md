@@ -15,7 +15,7 @@ IT student at **UFRN** in Natal, Brazil. Full stack developer working mostly wit
 
 | Project | What it is | Stack |
 |---|---|---|
-| **AtendeZap** (private) | Multi-tenant AI agent for customer service on WhatsApp: uses the company's own catalog as the single source of truth to find products, quote prices and build estimates, and hands over to a human when needed | Go · templ · PostgreSQL · Docker · Cloudflare Access |
+| **AtendeZap** (private) | Multi-tenant AI agent for customer service on WhatsApp | Go · templ · PostgreSQL · Docker · Cloudflare Access |
 | [projeto-driver-photos](https://github.com/SamuelFontess/projeto-driver-photos) | Google Drive–style file storage: folders, shared spaces, JWT in httpOnly cookies, Google sign-in | Next.js · Node · TypeScript · Docker · Firebase |
 | [servico-mensageria](https://github.com/SamuelFontess/servico-mensageria) | Queue worker that sends transactional emails and real-time events | Node · BullMQ · Redis · WebSocket · Docker |
 | [fullstack_commerce](https://github.com/SamuelFontess/fullstack_commerce) | E-commerce with a REST API and a separate frontend | Spring Boot · Spring Security · PostgreSQL · Next.js |
